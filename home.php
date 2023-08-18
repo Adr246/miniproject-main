@@ -43,10 +43,41 @@
             <p>We Provide Fast & Reliable Repair Charges.</p>
             <p>Customers Responses Are Our First Priority.</p>
     </div>
+    <hr>
+    <div class="questions">
+        <h3><b>Frequently Asked Questions</b></h3>
+        <div class="ques"
+            <p><button>What is H&A?</button></p>
+            <p><button>Can we trust H&A?</button></p>
+            <p><button>Brands H&A supports?</button></p>
+            <p><button>How do i track our repair?</button></p>
+        </div>
+    </div>
+    <footer>
+        <div class="footer-content">
+            <h3>The Phone Repair Shop</h3>
 
-    
-     
-        
+            <div class="para">
+                <p>Welcome To Phone Repair Shop, We Provide Best Service Possible to the customers.</p>
+            </div>
+            <div class="footer-imgs">
+                <ul>
+                    <li><a href="home.php"><img class="insta" src="instagram.svg"  alt="#"></a></li>
+                    <li><a href="home.php"><img class="fb" src="facebook.svg"  alt="#"></a></li>
+                    <li><a href="home.php"><img class="xlogo" src="xtwitter.png"  alt="#"></a></li>
+
+                </ul> 
+
+            </div>
+            <div class="footer-imgs2">
+                +91 9567297230
+            </div>
+            <div class="copyright">
+                <p>Copyright &copy; The Phone Repair Shop Designed By Hemanth & Arjun</p> 
+            </div>
+
+        </div>
+    </footer>
 
     </form>
     
